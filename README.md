@@ -1,26 +1,26 @@
-👋 Hi, I’m Pantaleón Ferrer,
+Hi, my name is Pantaleon Ferrer,
 
-I'm currently a software developer that prefers to work at backend instead of frontend but i can do frontend too (Without design pls).
+I'm currently a software developer who prefers to work in back-end instead of front-end, but I can do front-end too (without Design pls).
 
-My main develop languages are 
+My most important developmental languages are.
 
- - Typescript
- - Nodejs with TS
- - Python
+- Typescript
+- Node.js with TS
+- Python
 
-And i know how to develop with
+And I know how to develop with
 
- - Express
- - Django
- - Flask
- - Vue
- - React
- - Sockets
- - AWS
- - CI/CD
- - Lambda
+- Express
+- Django
+- Flask
+- Vue
+- React
+- Sockets
+- AWS
+- CI/CD
+- Lambda
 
-And much more but not that interesant.
+And much more, but not this concern.
 
 <!---
 Zettsuen/Zettsuen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
