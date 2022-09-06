@@ -1,6 +1,6 @@
 Hi, my name is Pantaleon Ferrer,
 
-I'm currently a software developer who prefers to work in back-end instead of front-end, but I can do front-end too (without Design pls).
+I'm currently a software engineer who prefers to work in back-end instead of front-end, but I can do front-end too (without Design pls).
 
 My most important developmental languages are.
 
